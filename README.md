@@ -7,7 +7,7 @@ This application was created for users be used to be able to write and save note
 ### **Steps to get started:**
 ```
 - npm i
-- node index.js
+- node server.js
 ```
 ---
 
