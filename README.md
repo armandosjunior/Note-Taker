@@ -1,6 +1,6 @@
 # Note Taker :memo:
 
-This application was created for users be used to be able to write and save notes. This project uses an Express.js back, it saves and retrieves note data from a JSON file.
+This application was created for users be used to be able to write and save notes. This project uses an Express.js back, it saves and retrieves note data from JSON file.
 
 
 ## **Steps to get started:**
